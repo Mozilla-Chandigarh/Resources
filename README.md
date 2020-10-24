@@ -5,7 +5,7 @@ Event by Mozilla Chandigarh | DSC-CU
 ### `Time: 03:00 PM`
 ## Event Details:
 
-Take the first step towards web development, Developer Student Clubs Chandigarh University along with Mozilla Chandigarh is coming up with an amazing virtual event <b>"Untangling the Web" </b>where you will get to know more about the web.
+Take the first step towards web development, Mozilla Chandigarh along with Developer Student Clubs Chandigarh University is coming up with an amazing virtual event <b>"Untangling the Web" </b>where you will get to know more about the web.
 
 ### Why you should attend this virtual Hands-on Session
 * In this event, you will untangle the reasons behind the working of a website and learn the basics ins and outs of the web and web development.
