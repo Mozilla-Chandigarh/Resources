@@ -1,6 +1,6 @@
 ### Mozilla Chandigarh Resource Repository
 
-#### `Website` : [mozillachandigarh.tech](https://mozillachandigarh.tech)
+#### `Community` : [Join](https://community.mozilla.org/en/groups/mozilla-chandigarh/)
 
 #### `LinkedIn` : [Follow](https://www.linkedin.com/company/mozilla-chandigarh)
 
